@@ -11,7 +11,7 @@ namespace CSDatabaseLabs
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Labs.LabTask1.FormView());
+            Application.Run(new Labs.LabTask2.FormView());
         }
     }
 }
